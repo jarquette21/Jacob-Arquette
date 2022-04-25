@@ -1,5 +1,5 @@
 # About Jacob Arquette
 
-### Technical Skills Navigation
-- test
-- test
+### Vanderbilt University
+- Major: Chemical Engineering
+- Minors: Chemistry, Engineering Management
