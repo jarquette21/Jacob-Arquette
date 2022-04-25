@@ -4,4 +4,4 @@
 - Major: Chemical Engineering
 - Minors: Chemistry, Engineering Management
 
-![](OIP.jpg)
+![](assets/OIP.jpg)
