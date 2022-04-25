@@ -1,5 +1,5 @@
 # About Jacob Arquette
 
-## Technical Skills Navigation
+### Technical Skills Navigation
 - test
 - test
