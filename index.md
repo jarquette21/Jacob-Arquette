@@ -5,7 +5,7 @@
 - Minors: Chemistry, Engineering Management
 - Internships
   - fairlife, LLC
-  -   Chemical Engineering Intern
-    - May 2022-August 2022
+    - Chemical Engineering Intern
+      - May 2022-August 2022
 
 ![](assets/OIP.jpg)
