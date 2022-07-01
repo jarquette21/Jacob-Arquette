@@ -3,6 +3,8 @@
 ### Vanderbilt University
 - Major: Chemical Engineering
 - Minors: Chemistry, Engineering Management
-- Interhsip: fairlife
+- Internships
+  -fairlife
+    -May 2022-August 2022
 
 ![](assets/OIP.jpg)
